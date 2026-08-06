@@ -8,15 +8,12 @@ body{
 
 h1 {
     text-align: center;
+    margin: 10px auto;
     font-family: Garamond, serif;
     border: 3px;
-    background-color: chocolate
-}
-
-h1.index {
-    width: 100%;
+    background-color: chocolate;
+    width: 50%;
     height: auto;
-    margin: 20px;
     padding: 10px;
 }
 
