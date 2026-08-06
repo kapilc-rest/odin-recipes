@@ -1,5 +1,27 @@
+* {
+    background-color: tan;
+}
+
 h1 {
     text-align: center;
     font-family: Garamond, serif;
     border: 3px;
+}
+
+h1.index {
+    width: 100%;
+    height: auto;
+    margin: 20px;
+    background-color: chocolate;
+    padding: 10px;
+}
+
+a#footer {
+    text-align: center;
+    box-sizing: border-box;
+    display: inline-block;
+    color: brown;
+    width: 50px;
+    outline: 1px solid black;
+    padding: 5px 2px;
 }
