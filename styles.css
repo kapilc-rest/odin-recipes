@@ -2,18 +2,43 @@
     background-color: tan;
 }
 
+body{
+    padding: 5px;
+}
+
 h1 {
     text-align: center;
     font-family: Garamond, serif;
     border: 3px;
+    background-color: chocolate
 }
 
 h1.index {
     width: 100%;
     height: auto;
     margin: 20px;
-    background-color: chocolate;
     padding: 10px;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+    margin-left: 40%;
+}
+
+#description {
+    font-family: 'Courier New', Courier, monospace;
+    padding: 2px;
+}
+
+.list {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li {
+    padding: 2px;
 }
 
 a#footer {
